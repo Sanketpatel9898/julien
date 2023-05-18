@@ -4,8 +4,8 @@
    "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
-       "applovin_fberrorshow":"1"
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":""
    },
    "PLACEMENT":{
       "Facebookaudiencenetwork":{
