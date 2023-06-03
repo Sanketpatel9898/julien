@@ -1,0 +1,62 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"1",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":""
+   },
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"",
+          "AppID":" ",
+         "Banner1":" ",
+         "Interstitial1":" ",
+         "Native1":" ",
+         "Native_baner":" ",
+          "AppOpen1":" "
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+         "Banner1":"477487347896584_477487624563223",
+         "Interstitial1":"477487347896584_478878047757514",
+         "Interstitial2":"477487347896584_478878141090838",
+         "Interstitial3":"477487347896584_478878281090824",
+         "Interstitial4":"477487347896584_478878414424144",
+         "Interstitial5":"477487347896584_478878514424134",
+         "Interstitial6":"477487347896584_478878414424144",
+      
+               
+          "Interstitial_exit":"477487347896584_478878557757463",
+         "Interstitial_exit1":"477487347896584_478878654424120",
+         "Interstitial_exit2":"477487347896584_478878741090778",  
+         "Interstitial_exit3":"477487347896584_478878817757437",
+         "Interstitial_exit4":"477487347896584_478878897757429",
+         "Interstitial_exit5":"477487347896584_478878981090754",
+          "Interstitial_exit6":"477487347896584_478879041090748",
+         
+               
+             
+                
+         "Native1":"477487347896584_478879104424075",
+         "NativeBanner1":"477487347896584_478879157757403"
+     
+      },
+      "Unity":{
+         "ad_showAdStatus":"1",
+          "AppID":" "
+      },
+       "applovin":{
+         "ad_showAdStatus":"",
+         "applovin_intretial":"03fa45c0f3144afc",
+          "applovin_baner":"",
+          "applovin_native":"972eb2d420a04bdf",
+          "applovin_native1":"270280597b19c8be"
+      },
+      "QurekaLite":{
+         "ad_showAdStatus":"",
+          "AppID":"https://336.set.qureka.com/"
+      }
+   }
+   }
