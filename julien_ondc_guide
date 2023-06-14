@@ -1,10 +1,10 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
+      "app_adShowStatus":"1",
        "applovin_fberrorshow":""
    },
    "PLACEMENT":{
@@ -18,26 +18,26 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
          "Banner1":"477487347896584_477487624563223",
-         "Interstitial1":"",
-         "Interstitial2":"",
-         "Interstitial3":"2312433698835503_2650502525028617",
-         "Interstitial4":"",
-         "Interstitial5":"",
-         "Interstitial6":"",
+         "Interstitial1":"238928388887818_239361108844546",
+         "Interstitial2":"238928388887818_239361205511203",
+         "Interstitial3":"238928388887818_239361342177856",
+         "Interstitial4":"238928388887818_239361418844515",
+         "Interstitial5":"238928388887818_239361505511173",
+         "Interstitial6":"238928388887818_239361572177833",
                     
-          "Interstitial_exit":"",
-         "Interstitial_exit1":"",
-         "Interstitial_exit2":"2312433698835503_2650502525028617",  
-         "Interstitial_exit3":"",
-         "Interstitial_exit4":"",
-         "Interstitial_exit5":"",
-          "Interstitial_exit6":"",
-            "Interstitial_exit7":"2312433698835503_2650502525028617",
+          "Interstitial_exit":"238928388887818_239361662177824",
+         "Interstitial_exit1":"238928388887818_239361745511149",
+         "Interstitial_exit2":"238928388887818_239361798844477",  
+         "Interstitial_exit3":"238928388887818_239361855511138",
+         "Interstitial_exit4":"238928388887818_239361958844461",
+         "Interstitial_exit5":"238928388887818_239362035511120",
+          "Interstitial_exit6":"238928388887818_239362118844445",
+            "Interstitial_exit7":"238928388887818_239362218844435",
      
-         "Native1":"",
-         "NativeBanner1":" "
+         "Native1":"238928388887818_239362305511093",
+         "NativeBanner1":"238928388887818_239362392177751"
      
       },
       "Unity":{
