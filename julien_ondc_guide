@@ -9,16 +9,16 @@
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"",
-          "AppID":" ",
-         "Banner1":" ",
-         "Interstitial1":" ",
-         "Native1":" ",
-         "Native_baner":" ",
-          "AppOpen1":" "
+         "ad_showAdStatus":"1",
+          "AppID":"ca-app-pub-9163497825173896~5156698491",
+         "Banner1":"ca-app-pub-9163497825173896/5786936650",
+         "Interstitial1":"ca-app-pub-9163497825173896/8839324029",
+         "Native1":"ca-app-pub-9163497825173896/9890150428",
+         "Native_baner":"ca-app-pub-9163497825173896/7100018321",
+          "AppOpen1":"ca-app-pub-9163497825173896/8577068754"
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":"477487347896584_477487624563223",
          "Interstitial1":"238928388887818_239361108844546",
          "Interstitial2":"238928388887818_239361205511203",
