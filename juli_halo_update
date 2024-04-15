@@ -16,47 +16,7 @@
          "Native1":"",
          "Native_baner":"",
           "AppOpen1":""
-      },
-      "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-         "Banner1":" ",
-         "Interstitial1":"",
-         "Interstitial2":"",
-         "Interstitial3":"",
-         "Interstitial4":" ",
-         "Interstitial5":"",
-         "Interstitial6":" ",
-      
-               
-          "Interstitial_exit":" ",
-         "Interstitial_exit1":" ",
-         "Interstitial_exit2":"",  
-         "Interstitial_exit3":"",
-         "Interstitial_exit4":"",
-         "Interstitial_exit5":"",
-          "Interstitial_exit6":"",
-         
-               
-             
-                
-         "Native1":"",
-         "NativeBanner1":""
-     
-      },
-      "Unity":{
-         "ad_showAdStatus":"",
-          "AppID":" "
-      },
-       "applovin":{
-         "ad_showAdStatus":"",
-         "applovin_intretial":"",
-          "applovin_baner":"",
-          "applovin_native":"",
-          "applovin_native1":""
-      },
-      "QurekaLite":{
-         "ad_showAdStatus":"",
-          "AppID":""
       }
+      
    }
    }
