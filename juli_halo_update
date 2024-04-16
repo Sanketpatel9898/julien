@@ -1,7 +1,7 @@
 {
-"STATUS":true,
+"STATUS":false,
    "MSG":"",
-   "onback_adshow":"1",
+   "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1",
@@ -10,7 +10,7 @@
    "PLACEMENT":{
       "Admob":{
 
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "AppID":"ca-app-pub-9163497825173896~1332388926",
          "Banner1":"ca-app-pub-3940256099942544/9214589741",
          "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
