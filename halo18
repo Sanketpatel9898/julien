@@ -1,7 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"1",
+   "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1",
@@ -11,11 +11,11 @@
       "Admob":{
          "ad_showAdStatus":"1",
        "AppID":"ca-app-pub-9163497825173896~1332388926",
-         "Banner1":"ca-app-pub-3940256099942544/9214589741",
-         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
-         "Native1":"ca-app-pub-3940256099942544/2247696110",
-         "Native_baner":"ca-app-pub-3940256099942544/2247696110",
-          "AppOpen1":"ca-app-pub-3940256099942544/9257395921"        
+         "Banner1":"ca-app-pub-9163497825173896/8392621299",
+         "Interstitial1":"ca-app-pub-9163497825173896/4605365620",
+         "Native1":"ca-app-pub-9163497825173896/1939673836",
+         "Native_baner":"ca-app-pub-9163497825173896/7406842687",
+          "AppOpen1":""        
       }
       
    }
