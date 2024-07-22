@@ -10,14 +10,14 @@
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"1",
-"ad_showintretial":"",
+         "ad_showAdStatus":"",
+"ad_showintretial":"1",
        "AppID":"ca-app-pub-9163497825173896~1332388926",
          "Banner1":"ca-app-pub-9163497825173896/8392621299",
          "Interstitial1":"ca-app-pub-9163497825173896/4605365620",
-  "Interstitial2":"ca-app-pub-9163497825173896/4605365620",
-  "Interstitialonback1":"ca-app-pub-9163497825173896/4605365620",
-"Interstitialonback2":"ca-app-pub-9163497825173896/4605365620",
+  "Interstitial2":"ca-app-pub-9163497825173896/3180725040",
+  "Interstitialonback1":"ca-app-pub-9163497825173896/3072913832",
+"Interstitialonback2":"ca-app-pub-9163497825173896/8765074271",
          "Native1":"ca-app-pub-9163497825173896/1939673836",
          "Native_baner":"ca-app-pub-9163497825173896/7406842687",
           "AppOpen1":""        
