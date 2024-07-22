@@ -10,7 +10,7 @@
    "PLACEMENT":{
       "Admob":{
          "ad_showAdStatus":"1",
-"ad_showintretial":"1",
+"ad_showintretial":"",
        "AppID":"ca-app-pub-9163497825173896~1332388926",
          "Banner1":"ca-app-pub-9163497825173896/8392621299",
          "Interstitial1":"ca-app-pub-9163497825173896/4605365620",
