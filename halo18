@@ -11,15 +11,15 @@
    "PLACEMENT":{
       "Admob":{
          "ad_showAdStatus":"",
-         "ad_showintretial":"1",
+"ad_showintretial":"1",
        "AppID":"ca-app-pub-9163497825173896~1332388926",
-         "Banner1":"ca-app-pub-3940256099942544/9214589741",
-         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
-        "Interstitial2":"ca-app-pub-3940256099942544/1033173712",
-        "Interstitialonback1":"ca-app-pub-3940256099942544/1033173712",
-         "Interstitialonback2":"ca-app-pub-3940256099942544/1033173712",
-         "Native1":"ca-app-pub-3940256099942544/2247696110",
-         "Native_baner":"ca-app-pub-3940256099942544/2247696110",
+         "Banner1":"ca-app-pub-9163497825173896/8392621299",
+         "Interstitial1":"ca-app-pub-9163497825173896/4605365620",
+      "Interstitial2":"ca-app-pub-9163497825173896/7451992609",
+     "Interstitialonback1":"ca-app-pub-9163497825173896/3072913832",
+    "Interstitialonback2":"ca-app-pub-9163497825173896/8765074271",
+         "Native1":"ca-app-pub-9163497825173896/1939673836",
+         "Native_baner":"ca-app-pub-9163497825173896/7406842687",
           "AppOpen1":""        
       }
       
