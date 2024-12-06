@@ -1,0 +1,21 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"1",
+
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"1",
+         "ad_showInterstitialStatus":"1",
+       "AppID":"ca-app-pub-9163497825173896~1332388926",
+         "Banner1":"ca-app-pub-9163497825173896/8392621299",
+         "Interstitial1":"ca-app-pub-9163497825173896/4605365620",
+"appopen":"",
+                 "Native1":"ca-app-pub-9163497825173896/1939673836",
+         "Native_baner":"ca-app-pub-9163497825173896/7406842687"
+
+       
+       }
+      
+     }
+   }
